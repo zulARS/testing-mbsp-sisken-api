@@ -1,0 +1,14 @@
+{
+    "name": "mbsp/sisken",
+    "autoload": {
+        "psr-4": {
+            "Mbsp\\Sisken\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZulARS"
+        }
+    ],
+    "require": {}
+}
